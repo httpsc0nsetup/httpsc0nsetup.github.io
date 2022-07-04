@@ -24,7 +24,7 @@ Canon Printers are all-in-one printer software that enables you to print, copy, 
 
 ## Setup Canon Wireless Printer
 
-**Setup your wireless canon printer using the given below steps. Follow them orderly for more accuracy of setup: **
+**Setup your wireless canon printer using the given below steps. Follow them orderly for more accuracy of setup:**
 
 1. Assemble your Canon Printer as per manual book.
 2. Using USB connection, connect your Canon Printer with a computer.
